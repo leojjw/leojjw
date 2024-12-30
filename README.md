@@ -1,5 +1,14 @@
-## Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&text=&fontSize=70&fontAlign=50&fontAlignY=50&desc=%EA%B0%9C%EB%B0%9C+%EC%8B%A4%EB%A0%A5+%ED%96%A5%EC%83%81%EC%9D%84+%EC%9C%84%ED%95%B4..&descSize=20&descAlign=50&descAlignY=60)
+
+![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleojjw&edge_flat=false&title=hits)
+## 안녕하세요, 개발 꿈나무 주정우입니다
+### 🦾 Skills
+**🧑‍💻 Lang and Frameworks**
+C++, Python
+
+**🛠️ Infra and Tools**
+현재 추가 중..
 <!--
 **leojjw/leojjw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
