@@ -11,6 +11,8 @@
 **🛠️ Infra and Tools**
 
 ![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leojjw&layout=compact)
 <!--
 **leojjw/leojjw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
