@@ -5,10 +5,12 @@
 ## 안녕하세요, 개발 꿈나무 주정우입니다
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
-C++, Python
+
+![C++](https://img.shields.io/badge/C++-000000.svg?&style=for-the-badge) ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
 
 **🛠️ Infra and Tools**
-현재 추가 중..
+
+![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) 
 <!--
 **leojjw/leojjw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
