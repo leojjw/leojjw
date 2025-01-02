@@ -6,11 +6,11 @@
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
 
-![C++](https://img.shields.io/badge/C++-000000.svg?&style=for-the-badge) ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
+![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-000000.svg?&style=for-the-badge) ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white) ![Java](https://img.shields.io/badge/Java-000000.svg?&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) 
 
 **🛠️ Infra and Tools**
 
-![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) 
+![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leojjw&layout=compact)
 <!--
